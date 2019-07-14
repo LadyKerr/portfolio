@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "responsive portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadyKerr/portfolio.git"
+  },
+  "author": "Kedasha Kerr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LadyKerr/portfolio/issues"
+  },
+  "homepage": "https://github.com/LadyKerr/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
